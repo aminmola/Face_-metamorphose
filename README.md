@@ -1,4 +1,5 @@
-# Face Morphing
+# Face metamorphose
+
 
 In this repo, we implement face morphing using Delaunay Triangulation, for morphing one face into another by warping image shape and cross-dissolving image colors. 
 
@@ -16,7 +17,7 @@ In this repo, we implement face morphing using Delaunay Triangulation, for morph
   </tr>
  </table>
 
-## What is face morphing?
+## What is face metamorphose?
 
 facial morphing is the process of blending the images of two faces together. The result is a fabricated facial image that contains features of the two original faces.
 
